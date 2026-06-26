@@ -1,6 +1,6 @@
 ## MRM
 
-Official source code for KDD 2026 paper: [Enhancing Protein Representation Learning via Manifold Restore Mixing]()
+Official source code for KDD 2026 paper: [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)
 
 ## Run the Code (CDConv as backbone)
 
